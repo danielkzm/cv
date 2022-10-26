@@ -1,0 +1,133 @@
+
+body
+{color: #40514E;
+ margin: 0;
+text-align: center;
+ font-family: 'Merriweather', serif;
+}
+
+hr {border: dotted #2B7A0B 7px ;
+ border-bottom: none;
+ width: 10%;
+margin: 100px auto;}
+
+h1
+{font-size: 5.625rem;
+ margin: 50px auto 0 auto;
+ font-family: 'Sacramento', cursive;
+color: #224B0C;
+}
+
+h2{ font-family: 'Merriweather', serif;
+ font-size: 2.5rem;
+color: #224B0C;
+font-weight: normal;
+padding-bottom: 10px;}
+
+h3{font-family: 'Merriweather', serif;
+ color: #2B7A0B;}
+
+p{  line-height: 2;
+}
+a{font-family: 'Merriweather', serif;
+ color: #2B7A0B;
+ margin:10px 20px;
+ text-decoration: none;
+}
+a:hover{ color: white;
+}
+
+
+.top-container
+{background-color: #EDDBC0;
+position: relative;
+ padding-top: 100px;}
+
+.middle-container
+{
+margin: 100px 0;
+}
+
+.bottom-container
+{
+background-color: #EDDBC0 ;
+ padding: 50px 0 20px;
+}
+.skills-img{ width: 200px;}
+
+
+.Accountant-img { width: 10%;
+ float: right;
+ margin-left: 30px;
+}
+
+.skill-row {width: 50%;
+margin: 100px auto 100px auto ;
+ text-align: left;
+}
+
+.intro{ width: 30%;
+margin: auto;}
+
+.pro
+{text-decoration: underline;}
+
+.top-cloud
+{position: absolute;
+ right: 300px;
+top: 40px;}
+
+.bottom-cloud
+{position: absolute;
+left: 250px;
+bottom: 300px}
+
+.touch
+{margin: 0;
+ position: relative;
+ left: 140px;
+ bottom: 40px;}
+
+.h3-contact-me
+{
+ width: 40%;
+ margin: 40px auto 60px;
+}
+
+
+
+.Email{
+ background:  #11cdd4;
+ background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+ background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+ background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+ background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+ background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+ -webkit-border-radius: revert;
+ -moz-border-radius: revert;
+ border-radius: 8px;
+ font-family: 'Merriweather', serif;
+ color: #ffffff;
+ font-size: 20px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+ display: inline-block;
+ margin-top:40px ;
+
+}
+
+.btn:hover {
+ background: #30e3cb;
+ background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+ background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+ background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+ background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+ background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+ text-decoration: none;
+}
+.copyright{ color: #EAF6F6;
+ font-size: 0.75rem;
+ padding: 20px 0;
+
+
+}
